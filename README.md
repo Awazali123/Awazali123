@@ -6,7 +6,7 @@
   💼 Data Science Intern @ Future Interns &nbsp;•&nbsp;
   🏅 Google Data Analytics Certified
 </p>
-
+ 
 ---
 
 # 💫 About Me:
