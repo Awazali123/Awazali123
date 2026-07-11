@@ -23,9 +23,9 @@
 | Project | Description | Tools |
 |---|---|---|
 | [🏠 Sales Data Analysis](https://github.com/Awazali123/FUTURE_DS_01) | Sales trends & revenue insights | Python, Pandas, Matplotlib |
-| [🦠 Superstore Dashboard](https://github.com/Awazali123/Customer-Churn-Excel-Dashboard) | 
+| [🦠 Superstore Dashboard](https://github.com/Awazali123/Customer-Churn-Excel-Dashboard) | Retail profit & regional analysis | Python, Pandas, Matplotlib, Tableau |
 | [📊 Marketing Funnel & Conversion Performance Dashboard](https://github.com/Awazali123/Future-intern-_DS03) | Sales trends & revenue insights | Python, Pandas, Matplotlib |
-| [LinkedIn Portfolio Project🚀](https://github.com/Awazali123/linkedinproject) | Retail profit & regional analysis | Python,Pandas,Numpy,Tableau |
+| [LinkedIn Portfolio Project🚀](https://github.com/Awazali123/linkedinproject) | Links to my GitHub, Kaggle, LinkedIn, resume, and contact info.| Python,Pandas,Numpy,Tableau |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Awazali123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
