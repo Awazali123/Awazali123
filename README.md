@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaik Awaz ali 👋</h1>
 
 <p align="center">
-  <b>Data Science Student | Amrita Sai Institute '27 | CGPA: 7.78</b><br>
+  <b>Data Science Student | Amrita Sai Institute '27 | CGPA: 7.87</b><br>
   📍 Hyderabad, India &nbsp;•&nbsp; 
   💼 Data Science Intern @ Future Interns &nbsp;•&nbsp;
   🏅 Google Data Analytics Certified
